@@ -6,6 +6,6 @@ title = "Tasty Licks"
   description = "An example website for restaurants built by [@eliwilliamson](https://github.com/eliwilliamson) using [Victor Hugo](https://github.com/netlify/victor-hugo)."
 
 [[menu.main]]
-    name = "About"
+    name = "About2"
     url  = "/about"
     weight = 1
