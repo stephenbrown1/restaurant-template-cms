@@ -4,6 +4,7 @@ title = "Kiwi Dreaming"
 
 [params]
   description = "Coming soon."
+  email = "hello@kiwidreaming.nz"
 
  [[menu.main]]
     name = "About2"
