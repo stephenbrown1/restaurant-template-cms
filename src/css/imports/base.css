@@ -655,7 +655,8 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255, 255, 255, 0.5);
-  background-color: #202020;
+  /* background-color: #202020; */
+  background-color: #000000;
   a {
     color: #fff;
     transition: color .2s ease;
@@ -680,7 +681,7 @@ html {
 .sidebar-about {
   h1 {
     color: #fff;
-    margin: 0 0 .35em 0;
+    margin: 1.5em 0 .35em 0;
     font-family: "Lucida Sans", cursive;
     font-size: 2rem;
     transition: color .2s ease;
@@ -698,7 +699,7 @@ html {
   margin: 0 0 1rem;
   border-radius: 5px;
   max-width: 95%;
-  
+  min-height: 1px;
 
   }
 }
