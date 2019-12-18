@@ -681,13 +681,25 @@ html {
   h1 {
     color: #fff;
     margin: 0 0 .35em 0;
-    font-family: "Rock Salt", cursive;
-    font-size: 3.25rem;
+    font-family: "Lucida Sans", cursive;
+    font-size: 2rem;
     transition: color .2s ease;
     -webkit-font-smoothing: antialiased;
   }
   .lead {
     font-size: .8em;
+  }
+}
+
+.sidebar-image {
+
+  img {
+  display: block;
+  margin: 0 0 1rem;
+  border-radius: 5px;
+  max-width: 95%;
+  
+
   }
 }
 

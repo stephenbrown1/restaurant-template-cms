@@ -5,7 +5,7 @@ title = "Kiwi Dreaming"
 [params]
   description = "Coming soon."
 
-[[menu.main]]
+ [[menu.main]]
     name = "About2"
     url  = "/about"
     weight = 1
