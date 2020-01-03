@@ -682,7 +682,7 @@ html {
   h1 {
     color: #fff;
     margin: 1.5em 0 .35em 0;
-    font-family: "Lucida Sans", cursive;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
     font-size: 2rem;
     transition: color .2s ease;
     -webkit-font-smoothing: antialiased;

@@ -1,6 +1,6 @@
 .content {
   h1 {
-    font-family: "Helvetica,Arial";
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
     text-transform: capitalize;
     margin: 0 0 64px 0;
   }
